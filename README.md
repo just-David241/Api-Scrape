@@ -91,6 +91,11 @@ Toute PR propre est la bienvenue.
 
 *Ｃｒａｚｙ* — [github.com/Crazynotdev](https://github.com/Crazynotdev)
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
+
+
 ---
 
 📄 Licence
