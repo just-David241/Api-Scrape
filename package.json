@@ -1,0 +1,23 @@
+
+{
+  "name": "open-meteo-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper TypeScript pour l'API Open-Meteo",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": ["weather", "api", "typescript", "open-meteo"],
+  "author": "TonNom",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
